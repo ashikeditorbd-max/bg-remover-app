@@ -2,4 +2,4 @@ flask
 rembg[cpu]
 pillow
 gunicorn
-onnxruntime
+onnxruntime-slim
